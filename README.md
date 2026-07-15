@@ -1,4 +1,12 @@
-## 👋
+#👋
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black" />
+</p>
 
 <!--
 **taewhan29/taewhan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
