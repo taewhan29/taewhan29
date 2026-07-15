@@ -1,13 +1,15 @@
-#👋
+### 👋
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black" />
-</p>
+* **Languages**
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 
+* **Database**
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <!--
 **taewhan29/taewhan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
