@@ -17,7 +17,7 @@
 ---
 
 ### 📊 Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=내_깃허브_ID&bg_color=ffffff&color=002d62&line=002d62&point=007396&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taewhan29&bg_color=ffffff&color=A1C4EB&line=A1C4EB&point=002c5f&area=true&hide_border=true" width="100%" />
 
 ### 🔗 Contact
-<a href="내_링크드인_주소"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:taewhan29@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=social&logo=gmail" /></a>
