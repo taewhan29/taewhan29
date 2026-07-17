@@ -1,7 +1,5 @@
 # 👋
 
----
-
 ### 🎓 University 
 * **Hanshin University** In progress ✍️
 
