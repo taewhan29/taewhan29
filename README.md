@@ -1,7 +1,11 @@
 # 👋
 
+---
+
 ### 🎓 University 
 * **Hanshin University** In progress ✍️
+
+---
 
 ### 💻 Tech Stack
 
