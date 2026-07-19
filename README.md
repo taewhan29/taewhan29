@@ -25,4 +25,4 @@
 ---
 
 ### 🔗 Contact
-<a href="mailto:taewhan29@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=social&logo=gmail" /></a> `taewhan29@gmail.com`
+<a href="mailto:taewhan29@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=social&logo=gmail" /></a> `taewhan29@gmail.com` 
